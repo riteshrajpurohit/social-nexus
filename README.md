@@ -22,7 +22,6 @@ A modern, creative, colorful, and interactive website for Social Nexus—a digit
 
 ## 📁 Project Structure
 
-```
 src/
 ├── components/          # Reusable UI components
 │   ├── Layout.jsx      # Main layout wrapper
