@@ -80,7 +80,6 @@ npm install
 ```bash
 npm run dev
 ```
-
 Visit `http://localhost:5173` to see the website.
 
 ### Build for Production
