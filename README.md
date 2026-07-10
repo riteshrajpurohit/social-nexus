@@ -2,7 +2,7 @@
 
 **Where Brands Become Digital Powerhouses**
 
-A modern, creative, colorful, and interactive website for Social Nexus—a digital media & branding agency powered by SGCA Technologies.
+A modern, creative, colorful, and interactive website for Social Nexus—a digital media & branding agency.
 
 ## 🚀 Features
 
