@@ -73,7 +73,6 @@ Current placeholder colors:
 
 ```bash
 npm install
-```
 
 ### Development Server
 
