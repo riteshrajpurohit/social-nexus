@@ -130,3 +130,4 @@ Edit `src/index.css` and replace the CSS variables in `:root` with your brand co
 ## 📄 License
 
 © 2026 Social Nexus. All rights reserved.
+Developed by Ritesh Rajpurohit
